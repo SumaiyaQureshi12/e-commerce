@@ -11,7 +11,7 @@ const Featured = () => {
       </h2>
 
       <p className="max-w-[550px] pt-10 text-gray-700">
-      "Our featured food offers a perfect blend of taste and quality, handpicked to make every meal unforgettable."
+      Our featured food offers a perfect blend of taste and quality, handpicked to make every meal unforgettable.
       </p>
 
       <Dish />
@@ -30,7 +30,7 @@ const Featured = () => {
             <Dish />
             <h2 className="font-medium text-xl">Salad</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-            "Fresh, crisp, and packed with vibrant flavors, our salads are the perfect balance of health and taste in every bite."
+            Fresh, crisp, and packed with vibrant flavors, our salads are the perfect balance of health and taste in every bite.
             </p>
           </div>
         </div>
@@ -47,7 +47,7 @@ const Featured = () => {
             <Dish />
             <h2 className="font-medium text-xl">Baked apples</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-            "Warm, tender, and naturally sweet, our baked apples are a delightful treat, infused with cinnamon and a touch of comfort in every bite."
+            Warm, tender, and naturally sweet, our baked apples are a delightful treat, infused with cinnamon and a touch of comfort in every bite.
             </p>
           </div>
         </div>
@@ -64,7 +64,7 @@ const Featured = () => {
             <Dish />
             <h2 className="font-medium text-xl">Cherries chicken</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-            "Juicy cherries meet tender chicken in a perfect harmony of sweet and savory flavors, creating a dish that's as unique as it is delicious."
+            Juicy cherries meet tender chicken in a perfect harmony of sweet and savory flavors, creating a dish that is as unique as it is delicious.
             </p>
           </div>
         </div>

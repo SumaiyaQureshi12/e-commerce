@@ -1,4 +1,4 @@
-import About from "@/components/about"
+import About from "@/components/About"
 import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
