@@ -29,7 +29,7 @@ const Survey = () => {
           </p>
 
           <p className="text-gray-700 pt-8">
-            Whether you're craving the comfort of homemade flavors, modern
+            Whether youre craving the comfort of homemade flavors, modern
             cuisines, or unique taste experiences, our menu has something for
             everyone. Each dish is made with love and dedication, ensuring that
             every bite is a memorable one. Your trust and satisfaction are our
